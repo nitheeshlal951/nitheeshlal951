@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nitheeshlal951
 - 👀 I’m interested in #Science & #Technology (Currently #DataScience to be specific)
-- 🌱 I’m currently learning Data Science & Machine Learning through #Simplilearn
+- 🌱 I’m currently pursuing my Masters in Data Science through #Simplilearn
 - 📫 How to reach me ==> nitheeshlal951@gmail.com
 
 <!---
